@@ -1,4 +1,4 @@
 imutils
 numpy
 pytesseract
-cv2
+opencv-python
