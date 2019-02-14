@@ -1,0 +1,4 @@
+imutils
+numpy
+pytesseract
+cv2
