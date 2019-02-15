@@ -20,3 +20,5 @@ OpenCV’s EAST (Efficient and Accurate Scene Text Detection) text detector is a
 - The output image will be put in the folder `output`
 
 - For usages of all parameters
+
+  `python text_recognition.py --help`
