@@ -15,4 +15,8 @@ OpenCV’s EAST (Efficient and Accurate Scene Text Detection) text detector is a
 ## Usage
 - To run the detector on a single image:
 
- `python text_recognition.py --east frozen_east_text_detection.pb --image images/example_01.jpg`
+ `python text_recognition.py --east frozen_east_text_detection.pb --image path_to_image`
+
+- The output image will be put in the folder `output`
+
+- For usages of all parameters
