@@ -1,6 +1,3 @@
-# USAGE
-# opencv-text-detection --image images/lebron_james.jpg
-
 # import the necessary packages
 import argparse
 import os
