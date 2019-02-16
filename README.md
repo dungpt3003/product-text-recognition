@@ -13,12 +13,14 @@ OpenCV’s EAST (Efficient and Accurate Scene Text Detection) text detector is a
 `pip install -r requirements.txt`
 
 ## Usage
+- The script to run text detection is located in folder  `text_detection`
+
 - To run the detector on a single image:
 
- `python text_recognition.py --east frozen_east_text_detection.pb --image path_to_image`
+ `python text_detection.py --east frozen_east_text_detection.pb --image path_to_image`
 
 - The output image will be put in the folder `output`
 
 - For usages of all parameters
 
-  `python text_recognition.py --help`
+  `python text_detection.py --help`
